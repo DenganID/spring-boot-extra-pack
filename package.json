@@ -1,0 +1,32 @@
+{
+  "name": "spring-boot-extra-pack",
+  "displayName": "Spring Boot Extra Pack",
+  "description": "Collection for developing Spring Boot application",
+  "publisher": "abduldama",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DenganID/spring-boot-extra-pack.git"
+  },
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "visualstudioexptteam.vscodeintellicode",
+    "redhat.java",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "redhat.vscode-xml",
+    "vscjava.vscode-spring-initializr",
+    "pivotal.vscode-spring-boot",
+    "pivotal.vscode-concourse",
+    "vscjava.vscode-spring-boot-dashboard",
+    "wayou.vscode-todo-highlight",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
