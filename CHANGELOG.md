@@ -5,8 +5,11 @@ All notable changes to the "spring-boot-extra-pack" extension pack will be docum
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+## [0.0.3] - 2021-06-6
 
-## [0.0.2] - 2021-06-5
+### Added
+
+- sohibe.java-generate-setters-getters
 
 ### Added
 

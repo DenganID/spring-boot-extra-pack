@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/DenganID/spring-boot-extra-pack.git"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.56.0"
   },
@@ -27,6 +27,7 @@
     "pivotal.vscode-concourse",
     "vscjava.vscode-spring-boot-dashboard",
     "wayou.vscode-todo-highlight",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "sohibe.java-generate-setters-getters"
   ]
 }
